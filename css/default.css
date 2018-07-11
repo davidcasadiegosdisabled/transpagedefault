@@ -1,0 +1,134 @@
+/* posicion contenidos */
+.center{text-align: center;}
+.left{text-align: left;}
+.right{text-align: right;}
+
+/* padding */
+.padding-0{padding: 0px;}
+.padding-5{padding: 5px;}
+.padding-10{padding: 10px;}
+.padding-15{padding: 15px;}
+.padding-20{padding: 20px;}
+.padding-25{padding: 25px;}
+.padding-30{padding: 30px;}
+.padding-35{padding: 35px;}
+.padding-40{padding: 40px;}
+.padding-45{padding: 45px;}
+.padding-50{padding: 50px;}
+
+/* padding top */
+.paddingtop-0{padding-top: 0px;}
+.paddingtop-5{padding-top: 5px;}
+.paddingtop-10{padding-top: 10px;}
+.paddingtop-15{padding-top: 15px;}
+.paddingtop-20{padding-top: 20px;}
+.paddingtop-25{padding-top: 25px;}
+.paddingtop-30{padding-top: 30px;}
+.paddingtop-35{padding-top: 35px;}
+.paddingtop-40{padding-top: 40px;}
+.paddingtop-45{padding-top: 45px;}
+.paddingtop-50{padding-top: 50px;}
+
+/* padding bottom */
+.paddingbottom-0{padding-bottom: 0px;}
+.paddingbottom-5{padding-bottom: 5px;}
+.paddingbottom-10{padding-bottom: 10px;}
+.paddingbottom-15{padding-bottom: 15px;}
+.paddingbottom-20{padding-bottom: 20px;}
+.paddingbottom-25{padding-bottom: 25px;}
+.paddingbottom-30{padding-bottom: 30px;}
+.paddingbottom-35{padding-bottom: 35px;}
+.paddingbottom-40{padding-bottom: 40px;}
+.paddingbottom-45{padding-bottom: 45px;}
+.paddingbottom-50{padding-bottom: 50px;}
+
+/* padding left */
+.paddingleft-0{padding-left: 0px;}
+.paddingleft-5{padding-left: 5px;}
+.paddingleft-10{padding-left: 10px;}
+.paddingleft-15{padding-left: 15px;}
+.paddingleft-20{padding-left: 20px;}
+.paddingleft-25{padding-left: 25px;}
+.paddingleft-30{padding-left: 30px;}
+.paddingleft-35{padding-left: 35px;}
+.paddingleft-40{padding-left: 40px;}
+.paddingleft-45{padding-left: 45px;}
+.paddingleft-50{padding-left: 50px;}
+
+/* padding right*/
+.paddingright-0{padding-right: 0px;}
+.paddingright-5{padding-right: 5px;}
+.paddingright-10{padding-right: 10px;}
+.paddingright-15{padding-right: 15px;}
+.paddingright-20{padding-right: 20px;}
+.paddingright-25{padding-right: 25px;}
+.paddingright-30{padding-right: 30px;}
+.paddingright-35{padding-right: 35px;}
+.paddingright-40{padding-right: 40px;}
+.paddingright-45{padding-right: 45px;}
+.paddingright-50{padding-right: 50px;}
+
+/* margin top */
+.margintop-0{margin-top: 0px;}
+.margintop-5{margin-top: 5px;}
+.margintop-10{margin-top: 10px;}
+.margintop-15{margin-top: 15px;}
+.margintop-20{margin-top: 20px;}
+.margintop-25{margin-top: 25px;}
+.margintop-30{margin-top: 30px;}
+.margintop-35{margin-top: 35px;}
+.margintop-40{margin-top: 40px;}
+.margintop-45{margin-top: 45px;}
+.margintop-50{margin-top: 50px;}
+
+/* padding bottom */
+.marginbottom-0{margin-bottom: 0px;}
+.marginbottom-5{margin-bottom: 5px;}
+.marginbottom-10{margin-bottom: 10px;}
+.marginbottom-15{margin-bottom: 15px;}
+.marginbottom-20{margin-bottom: 20px;}
+.marginbottom-25{margin-bottom: 25px;}
+.marginbottom-30{margin-bottom: 30px;}
+.marginbottom-35{margin-bottom: 35px;}
+.pmarginbottom-40{margin-bottom: 40px;}
+.marginbottom-45{margin-bottom: 45px;}
+.marginbottom-50{margin-bottom: 50px;}
+
+/* padding left */
+.marginleft-0{margin-left: 0px;}
+.marginleft-5{margin-left: 5px;}
+.marginleft-10{margin-left: 10px;}
+.marginleft-15{margin-left: 15px;}
+.marginleft-20{margin-left: 20px;}
+.marginleft-25{margin-left: 25px;}
+.marginleft-30{margin-left: 30px;}
+.marginleft-35{margin-left: 35px;}
+.marginleft-40{margin-left: 40px;}
+.marginleft-45{margin-left: 45px;}
+.marginleft-50{margin-left: 50px;}
+
+/* padding right*/
+.marginright-0{margin-right: 0px;}
+.marginright-5{margin-right: 5px;}
+.marginright-10{margin-right: 10px;}
+.marginright-15{margin-right: 15px;}
+.marginright-20{margin-right: 20px;}
+.marginright-25{margin-right: 25px;}
+.marginright-30{margin-right: 30px;}
+.marginright-35{margin-right: 35px;}
+.marginright-40{margin-right: 40px;}
+.marginright-45{margin-right: 45px;}
+.marginright-50{margin-right: 50px;}
+
+/* Tamaños fuentes */
+.fontsize-10{font-size: 10px;}
+.fontsize-15{font-size: 15px;}
+.fontsize-20{font-size: 20px;}
+.fontsize-25{font-size: 25px;}
+.fontsize-30{font-size: 30px;}
+.fontsize-35{font-size: 35px;}
+.fontsize-40{font-size: 40px;}
+.fontsize-45{font-size: 45px;}
+.fontsize-50{font-size: 50px;}
+.fontsize-55{font-size: 55px;}
+.fontsize-60{font-size: 60px;}
