@@ -15,7 +15,7 @@
   <!-- Fonst Google -->
 	<link href="css/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 
-  <!-- css whatsapp -->
+  <!-- css whatsapp -Widget -->
   <link rel="stylesheet" href="css/whatsapp.css">
     
 
